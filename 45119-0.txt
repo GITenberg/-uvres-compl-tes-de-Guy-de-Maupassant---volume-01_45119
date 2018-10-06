@@ -18,7 +18,7 @@ Language: French
 
 Character set encoding: UTF-8
 
-*** END OF THIS PROJECT GUTENBERG EBOOK OEUVRES COMPLETES DE GUY DE MAUPASSANT, V.1 ***
+*** START OF THIS PROJECT GUTENBERG EBOOK OEUVRES COMPLETES DE GUY DE MAUPASSANT, V.1 ***
 
 
 
@@ -7023,9 +7023,6 @@ TABLE DES MATIÈRES.
 
 
 
-
-End of the Project Gutenberg EBook of Oeuvres complètes de Guy de Maupassan
- - volume 1, by Guy de Maupassant
 
 *** END OF THIS PROJECT GUTENBERG EBOOK OEUVRES COMPLETES DE GUY DE MAUPASSANT, V.1 ***
 
